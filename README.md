@@ -34,6 +34,6 @@ This script provides a comprehensive pipeline for using machine learning to trai
 
 ### Example Usage:
 To use the script:
-1. Prepare your data file (`data.xlsx`) with the target variable labeled as "H UAV".
+1. Prepare your data file (`data.xlsx`).
 2. Adjust the file paths in the script if necessary.
 3. Run the script to generate results, plots, and predictions saved in the `Tables` and `Figures` directories.
